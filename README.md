@@ -1,4 +1,4 @@
-# hard-rock-music
+# Hard-rock-music
 [Click to visit](livemusicbyaporbo.netlify.app)
 ### Search Song
 api link: https://api.lyrics.ovh/suggest/:searchText
